@@ -5,9 +5,9 @@
 [![Author](https://img.shields.io/badge/author-DarkSatella-green)](https://github.com/DarkSatella)
 
 
-#### [See it Live]([https://darksatella.github.io/8-3-Class12T1-2024/])
+#### [See it Live]([https://darksatella.github.io/8-3-Class12T1-2024-Mobile/])
 
-## This is my own version, inpired by another programmer :computer: :wink:
+## This is my own version, inpired by another programmer's work :computer: :wink:
 ## You can use mine, or edit it as your wish
 
 :camera::camera::camera::camera::camera::camera::camera:

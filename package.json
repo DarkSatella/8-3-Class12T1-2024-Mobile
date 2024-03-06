@@ -1,5 +1,5 @@
 {
-  "name": "8-3-Class12T1-2024",
+  "name": "8-3-Class12T1-2024-Mobile",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DarkSatella/8-3-Class12T1-2024.git"
+    "url": "git+https://github.com/DarkSatella/8-3-Class12T1-2024-Mobile.git"
   },
   "keywords": [
     "Happy",
@@ -27,8 +27,8 @@
   "contributor": "DarkSatella",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/DarkSatella/8-3-Class12T1-2024/issues"
+    "url": "https://github.com/DarkSatella/8-3-Class12T1-2024-Mobile/issues"
   },
-  "homepage": "https://github.com/DarkSatella/8-3-Class12T1-2024#readme",
+  "homepage": "https://github.com/DarkSatella/8-3-Class12T1-2024-Mobile#readme",
   "dependencies": {}
 }
