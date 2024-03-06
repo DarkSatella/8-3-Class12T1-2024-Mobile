@@ -3,6 +3,8 @@ const backgroundMusic = document.getElementById('backgroundMusic');
 
 
 
+
+
 let slideIndex = 0;
 showSlides();
 
@@ -21,7 +23,7 @@ function showSlides() {
   slides[slideIndex-1].style.display = "block";
   slides[slideIndex-1].style.opacity = 1;  
 
-  setTimeout(showSlides, 1000); // Change image every 1 seconds
+  setTimeout(showSlides, 800); // Change image every 0.8 seconds
 }
 
 
@@ -301,6 +303,7 @@ const animationTimeline = () => {
       },
       "+=1"
     );
+
 
   // tl.seek("currentStep");
   // tl.timeScale(2);

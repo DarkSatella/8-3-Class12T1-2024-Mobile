@@ -1,13 +1,12 @@
-
 /* Style the slideshow container */
 .slideshow-container {
-  margin: auto;
+  margin: 0 auto;
   position: relative;
   text-align: center;
   left: 0%;
   display: inline-block;
-  width: 700px; /* Adjust width as needed */
-  height: 600px; /* Adjust height as needed */
+  width: 400px; /* Adjust width as needed */
+  height: 300px; /* Adjust height as needed */
 }
 
 .slideshow-container img {
@@ -46,9 +45,9 @@
   border-radius: 3px;
 }
 
-#myImg {
-  max-width: 100%; /* Ensures image doesn't exceed container width */
-  max-height: 100%; /* Ensures image doesn't exceed container height */
+#myButton img {
+  width: 100%; /* Ensures image doesn't exceed container width */
+  height: 100%; /* Ensures image doesn't exceed container height */
   object-fit: cover; /* Maintains aspect ratio while covering container */
   display: block;
   margin: 0 auto;
@@ -58,19 +57,19 @@
   background: none;
   border: none;
   padding: 0;
-  /*Hide text content */
+  object-fit: cover;
   text-indent: 0%;
   white-space: nowrap;
-  max-width: 20%; /* Resize to 50% of its original width */
-  max-height: 20%; /* Adjust height automatically to maintain aspect ratio */
   cursor: pointer;
   z-index: 2;
 }
 .present-box-container {
   position: absolute;
   top: 40%;
-  left: 45%;
+  left: 30%;
   cursor: pointer;
+  max-width: 40%;
+  max-height: 40%;
 }
 
 #myImg:hover {
@@ -201,7 +200,7 @@ body {
 }
 
 .five .idea-5 {
-  font-size: 4rem;
+  font-size: 3rem;
 }
 
 .idea-5 span,
@@ -231,7 +230,7 @@ body {
 .baloons img {
   display: inline-block;
   position: absolute;
-  width: 200px;
+  width: 100px;
 }
 
 .baloons img:nth-child(even) {
